@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "allowSyntheticDefaultImports": true,
+    "alwaysStrict": true,
+    "baseUrl": "./src",
+    "checkJs": true,
+    "target": "ES5",
+    "jsx": "preserve"
+  },
+
+  "exclude": ["**/node_modules/*", "node_modules", "build"]
+}
